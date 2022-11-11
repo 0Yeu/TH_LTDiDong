@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/HOCTAP/Nam3-HK1/TH LTWEB/QLSV_SQLite/app/src/main/res/layout/activity_insert_row.xml" value="0.22826086956521738" />
+        <entry key="..\:/HOCTAP/Nam3-HK1/TH LTWEB/QLSV_SQLite/app/src/main/res/layout/activity_list_classes.xml" value="0.25416666666666665" />
+        <entry key="..\:/HOCTAP/Nam3-HK1/TH LTWEB/QLSV_SQLite/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/HOCTAP/Nam3-HK1/TH LTWEB/QLSV_SQLite/app/src/main/res/layout/activity_manage_students.xml" value="0.25416666666666665" />
+        <entry key="..\:/HOCTAP/Nam3-HK1/TH LTWEB/QLSV_SQLite/app/src/main/res/layout/activity_update_rows.xml" value="0.22826086956521738" />
+        <entry key="..\:/HOCTAP/Nam3-HK1/TH LTWEB/QLSV_SQLite/app/src/main/res/layout/dialog_new_class.xml" value="0.264" />
+        <entry key="..\:/HOCTAP/Nam3-HK1/TH LTWEB/QLSV_SQLite/app/src/main/res/layout/layout_classes_item.xml" value="0.4" />
+        <entry key="..\:/HOCTAP/Nam3-HK1/TH LTWEB/QLSV_SQLite/app/src/main/res/layout/layout_student_item.xml" value="0.264" />
+        <entry key="..\:/HOCTAP/Nam3-HK1/TH LTWEB/QLSV_SQLite/app/src/main/res/layout/listviewdelete_row.xml" value="0.22146739130434784" />
+        <entry key="..\:/HOCTAP/Nam3-HK1/TH LTWEB/QLSV_SQLite/app/src/main/res/layout/listviewupdate_row.xml" value="0.22146739130434784" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
